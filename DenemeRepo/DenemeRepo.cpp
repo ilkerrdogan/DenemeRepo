@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Projeye Hoşgeldiniz!\n";
+    std::cout << "Projeye Hoşgelddsfsdfiniz!\n";
 }
 
 // Programı çalıştır: Ctrl + F5 veya Hata Ayıkla > Hata Ayıklamadan Başlat menüsü
